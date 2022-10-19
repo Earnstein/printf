@@ -4,7 +4,7 @@
  * main - Entry point
  * Return: 0 on succcess
  */
-int main()
+int main(void)
 {
 	_printf("hello");
 	return (0);
